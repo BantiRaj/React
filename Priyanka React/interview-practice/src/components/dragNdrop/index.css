@@ -1,0 +1,13 @@
+.drag-container {
+    width: 20%;
+
+}
+.drag-container ul {
+    list-style: none;
+}
+.drag-container ul li{
+    background-color: bisque;
+    padding: 8px;
+    margin-bottom: 8px;
+    cursor: grab;
+}

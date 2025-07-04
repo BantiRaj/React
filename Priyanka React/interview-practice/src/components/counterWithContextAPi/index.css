@@ -1,0 +1,45 @@
+.dark-theme {
+    background-color: black;
+    color: white;
+    height: 100vh;
+}
+
+.container {
+    width: 300px;
+    margin: 50px auto;
+    background-color: rgb(179 169 169);
+    padding: 35px;
+    border-radius: 8px;
+}
+
+label {
+    display: block;
+    color: white;
+    font: bold;
+}
+input {
+    padding: 10px;
+    width: 93%;
+    border-radius: 8px;
+    border: 1px solid rgb(59, 109, 109);
+    margin-bottom: 8px;
+}
+
+h2 {
+    color: rgb(59, 109, 109);
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    margin-top: 15px;
+    background-color: rgb(59, 109, 109);
+    border: none;
+    color: white;
+    font-size: 24px;
+    border-radius: 8px;
+}
+button:hover{
+    background-color: rgb(90, 141, 141);
+    cursor: pointer;
+}

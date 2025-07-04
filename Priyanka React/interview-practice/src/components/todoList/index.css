@@ -1,0 +1,9 @@
+.add-todo {
+  margin: 35px 35px;
+}
+.todo-list ul{
+   list-style-type: none;
+}
+.strike {
+    text-decoration: line-through;
+}

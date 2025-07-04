@@ -1,0 +1,16 @@
+div.dark {
+    background-color: black;
+    height: 100vh;
+    color: white;
+}
+button {
+    background: rgb(84, 84, 223);
+    padding: 8px;
+    margin: 8px 8px;
+    border: none;
+    border-radius: 4px;
+    color: white;
+}
+h1 {
+    
+}

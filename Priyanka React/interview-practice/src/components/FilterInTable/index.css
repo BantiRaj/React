@@ -1,0 +1,34 @@
+table {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: grey;
+}
+
+th, td{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+.pagination td {
+    text-align: right;
+}
+.search {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4px;
+    margin-top: 4px;
+    text-align: right;
+}
+.search input {
+    padding: 8px;
+}
+
+.search button {
+    padding: 8px;
+}

@@ -1,0 +1,25 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0px 1px 11px -1px rgb(224, 44, 74);
+    background-color: pink;
+}
+
+.header ul {
+    list-style: none;
+}
+
+.header ul, li {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 8px;
+    color: rgb(187, 25, 52);
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+}
+.header ul, li:hover {
+    text-decoration: none;
+}
+.dashboard {
+}
